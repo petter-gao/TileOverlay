@@ -1,0 +1,26 @@
+PODS:
+  - AMap3DMap (6.7.0):
+    - AMapFoundation (~> 1.5)
+  - AMapFoundation (1.5.6)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - SDWebImage (~> 4.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMap3DMap
+    - AMapFoundation
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AMap3DMap: 7bb992e6bfb99e34e6c7a368958dde9d743a23f1
+  AMapFoundation: 20fce2a12cd152e1092afdd04379cdac21932185
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+
+PODFILE CHECKSUM: 33f49a33d1fc8eece5bbf28dece1062bdc5457d2
+
+COCOAPODS: 1.6.1
